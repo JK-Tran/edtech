@@ -1,0 +1,23 @@
+flutter_native_splash:
+  # Background color
+  color: "#FFFFFF"
+  image: assets/images/antoree_logo.png
+  color_dark: "#121212"
+  image_dark: assets/images/antoree_logo.png
+
+  android: true
+  ios: true
+  web: false
+  
+  android_12:
+    image: assets/images/antoree_logo.png
+    icon_background_color: "#FFFFFF"
+    image_dark: assets/images/antoree_logo.png
+    icon_background_color_dark: "#121212"
+  
+  # Fullscreen mode
+  fullscreen: true
+  
+  # Status bar configuration
+  android_gravity: center
+  ios_content_mode: center 
